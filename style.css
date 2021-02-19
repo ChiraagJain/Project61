@@ -14,7 +14,7 @@
 
 body {
     text-align: center;
-    background: linear-gradient(#12e3ab 30%, #0062ff 100%);
+    background: linear-gradient(#12e3ab 50%, #0062ff 100%);
 }
 
 h1 {
@@ -38,13 +38,12 @@ img {
     width: 500;
 }
 
-
 .menu {
     list-style: none;
     font-family: sans-serif;
     position: fixed;
     top: 0px;
-    right: 100%;
+    width: 100%;
     z-index: 10;
     cursor: pointer;
     background-color: white;
